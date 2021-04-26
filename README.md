@@ -1,2 +1,2 @@
-# NeetuPundirPortfolio
+# NeetuPundir Portfolio
 Introduction about myself
