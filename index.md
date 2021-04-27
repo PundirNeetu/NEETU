@@ -1,12 +1,20 @@
+```
 ### Hochschule für Technik und Wirtschaft (HTW) Berlin,Germany | University of Applied Sciences | Master of Science in Project Management and DataScience  
 
 Completed with majors in Project Management and Data Science . I worked on multiple university guided projects and MOOC project using Ecel, Python, SQL adn many visualisation tools like Qlik Sense, SPSS modeler, Power Bi, Tableau. Primarily I have been analysing e-commerce website and health care data and making appropriate models using suitable libraries. I am extremely ardent for learning latest technologies. I have completed a lot of diverse set of projects. I enjoy working with motivated team with a result oriented objective.
 During my leisure time I always look to excel my knowledge through reading articles and contributing in data science community, apart fromt that I like to watch movies and listen to music.
+```
+```
+### Contact information
+[LinkedIn](www.linkedin.com/in/neetu-pundir) | [GitHub](https://github.com/PundirNeetu)
 
 
-### Markdown
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
