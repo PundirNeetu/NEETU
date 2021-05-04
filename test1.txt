@@ -1,6 +1,2 @@
 hi this is my git hub trial
-Actually forgot to add one more line
-and this is it.
 and testing is on for the moment
-so the portfolio can be accessed from here.
-debugging is tedious and time consuming
